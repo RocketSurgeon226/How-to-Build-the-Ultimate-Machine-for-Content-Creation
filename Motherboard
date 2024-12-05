@@ -3,22 +3,3 @@ A motherboardLinks to an external site. (sometimes alternatively known as the ma
 purpose microcomputers and other expandable systems. It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides 
 connectors for other peripherals. Unlike a backplane, a motherboard usually contains significant sub-systems such as the central processor, the chipset’s input/output and memory controllers, interface connectors, and other 
 components integrated for general purpose use.
-
-Chipset (Northbridge/Southbridge)
-A northbridge or host bridge is one of the two chips in the core logic chipset architecture on a PC motherboard, the other being the southbridge. Unlike the southbridge, northbridge is connected 
-directly to the CPU via the front-side bus (FSB) and is thus responsible for tasks that require the highest performance. The northbridge is usually paired with a southbridge, also known as I/O controller hub. In systems 
-where they are included, these two chips manage communications between the CPU and other parts of the motherboard, and constitute the core logic chipset of the PC motherboard.
-
-The southbridge is one of the two chips in the core logic chipset on a personal computer (PC) motherboard, the other being the northbridge. The southbridge typically implements the slower capabilities of the motherboard in a 
-northbridge/southbridge chipset computer architecture. In systems with Intel chipsets, the southbridge is named I/O Controller Hub (ICH), while AMD has named its southbridge Fusion Controller Hub (FCH) since the introduction 
-of its Fusion AMD Accelerated Processing Unit (APU).
-
-The southbridge can usually be distinguished from the northbridge by not being directly connected to the CPU. Rather, the northbridge ties the southbridge to the CPU. Through the use of controller integrated channel circuitry,
-the northbridge can directly link signals from the I/O units to the CPU for data control and access.
-
-PCI Express (PCIe)
-PCI ExpressLinks to an external site. (Peripheral Component Interconnect Express), officially abbreviated as PCIe or PCI-e, is a high-speed serial computer expansion bus standard, designed to replace the older PCI, PCI-X, 
-and AGP bus standards. PCIe has numerous improvements over the older standards, including higher maximum system bus throughput, lower I/O pin count and smaller physical footprint, better performance scaling for bus devices, a 
-more detailed error detection and reporting mechanism (Advanced Error Reporting, AER), and native hot-swap functionality. More recent revisions of the PCIe standard provide hardware support for I/O virtualization.
-Defined by its number of lanes, the PCI Express electrical interface is also used in a variety of other standards, most notably the laptop expansion card interface ExpressCard and computer storage interfaces SATA Express and 
-M.2.
