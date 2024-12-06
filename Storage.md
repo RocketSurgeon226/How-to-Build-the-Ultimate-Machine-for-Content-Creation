@@ -1,3 +1,4 @@
+## Data Storage 
 Data storage is the recording (storing) of information (data) in a storage medium. Recording is accomplished by virtually any form of energy. DNA and RNA, handwriting, phonographic recording, magnetic tape, and optical discs 
 are all examples of storage media. Electronic data storage requires electrical power to store and retrieve data. Data storage in a digital, machine-readable medium is sometimes called digital data. Computer data storage is one 
 of the core functions of a general purpose computer.
@@ -13,10 +14,8 @@ SSDs have no moving mechanical components. This distinguishes them from conventi
 Compared with electromechanical drives, SSDs are typically more resistant to physical shock, run silently, have quicker access time and lower latency. However, while the price of SSDs has continued to decline over time, SSDs 
 are (as of 2018) still more expensive per unit of storage than HDDs and are expected to continue to be so into the next decade.
 
+[Home](README.md)
 
-* [Back: GPU/Graphics Card](GPU-Graphics-Card.md)
+[Back: GPU/Graphics Card](GPU-Graphics-Card.md)
 
-* [Next: More Advanced Components](More-Advanced-Components.md)
-
-
-* [Home](README.md)
+[Next: More Advanced Components](More-Advanced-Components.md)
