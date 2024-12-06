@@ -11,9 +11,9 @@ more efficient than general-purpose CPUs for algorithms where the processing of 
 or—in certain CPUs—on the CPU die.
 
 
-* [PSU](PSU.md)
+* [Back: PSU](PSU.md)
 
-* [Storage](Storage.md)
+* [Next: Storage](Storage.md)
 
 
 * [Home](README.md)
