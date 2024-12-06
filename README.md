@@ -1,16 +1,17 @@
 # How to Build the Ultimate Machine for Content Creation 
 ## created by Adam Smith
-Learn to build a machine (PC) for content creation such as gaming/streaming, music production, video/image editing, and coding.
+Learn to build a PC (Personal Computer AKA Machine) for content creation such as gaming/streaming, music production, video/image editing, and coding.
 
-* [Motherboard](Motherboard.md)
-* [CPU](CPU.md)
-* [RAM](RAM.md)
-* [Cooling](Cooling-Fans.md)
-* [Power Supply](PSU.md)
-* [GPU](GPU-Graphics-Card.md)
-* [Storage](Storage.md)
+All the componets you will need to build your very own PC are:
+* [the Motherboard](Motherboard.md)
+* [CPU (Central Processing Unit)](CPU.md)
+* [RAM (Random Access Memory)(](RAM.md)
+* [Cooling/Fans](Cooling-Fans.md)
+* [Power Supply (PSU)](PSU.md)
+* [GPU (Graphics Processing Unit)](GPU-Graphics-Card.md)
+* [Storage (SSD or HDD)](Storage.md)
 * [Case](Case.md)
-* [More Advanced Components](More-Advanced-Components.md)
-* [Peripherals](Peripherals.md)
+* [More Advanced Components (Sound Card and NIC)](More-Advanced-Components.md)
+* [and Peripherals](Peripherals.md)
 
   * [Next: Motherboard](Motherboard.md)
