@@ -9,5 +9,5 @@ to indicate when the DC voltages are in spec, so that the computer is able to sa
 
 [Back: Cooling](Cooling-Fans.md)
 
-[Next: GPU/Graphics Card)](GPU-Graphics-Card.md)
+[Next: GPU/Graphics Card](GPU-Graphics-Card.md)
 
