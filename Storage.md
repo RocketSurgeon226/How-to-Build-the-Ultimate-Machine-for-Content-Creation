@@ -14,6 +14,6 @@ Compared with electromechanical drives, SSDs are typically more resistant to phy
 are (as of 2018) still more expensive per unit of storage than HDDs and are expected to continue to be so into the next decade.
 
 
-* [GPU/Graphics Card)](GPU-Graphics-Card.md)
+* [GPU/Graphics Card](GPU-Graphics-Card.md)
 
 * [More Advanced Components](More-Advanced-Components.md)
