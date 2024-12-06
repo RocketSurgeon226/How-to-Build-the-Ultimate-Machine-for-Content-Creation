@@ -14,7 +14,7 @@ or—in certain CPUs—on the CPU die.
 
 [Home](README.md)
 
-[Back: PSU](PSU.md)
+[Back: Power Supply (PSU)](PSU.md)
 
 [Next: Storage](Storage.md)
 
