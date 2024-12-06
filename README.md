@@ -9,6 +9,7 @@ Learn to build a machine (PC) for content creation such as gaming/streaming, mus
 * [PSU](PSU.md)
 * [GPU/Graphics Card)](GPU-Graphics-Card.md)
 * [Storage](Storage.md)
+* [Case](Case.md)
 * [More Advanced Components](More-Advanced-Components.md)
 * [Peripherals](Peripherals.md)
 
