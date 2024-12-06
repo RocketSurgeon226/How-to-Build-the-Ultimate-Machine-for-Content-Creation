@@ -9,9 +9,9 @@ Cooling may be designed to reduce the ambient temperature within the case of a c
 include the CPU, Graphics processing unit (GPU) and the northbridge.
 
 
-* [RAM](RAM.md)
+* [Back: RAM](RAM.md)
 
-* [PSU](PSU.md)
+* [Next: PSU](PSU.md)
 
 
 * [Home](README.md)
