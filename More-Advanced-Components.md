@@ -1,4 +1,5 @@
 ## More Advanced Components
+#### Sound Card, Network Interface Controller (NIC)
 Sound Card
 A sound card (also known as an audio card) is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.
 Sound functionality can also be integrated onto the motherboard, using components similar to those found on plug-in cards. The integrated sound system is often still referred to as a sound card. Sound processing hardware is 
