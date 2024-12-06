@@ -5,7 +5,7 @@ Learn to build a PC (Personal Computer AKA Machine) for content creation such as
 All the componets you will need to build your very own PC are:
 * [Motherboard](Motherboard.md)
 * [CPU (Central Processing Unit)](CPU.md)
-* [RAM (Random Access Memory)(](RAM.md)
+* [RAM (Random Access Memory)](RAM.md)
 * [Cooling/Fans](Cooling-Fans.md)
 * [Power Supply (PSU)](PSU.md)
 * [GPU (Graphics Processing Unit)](GPU-Graphics-Card.md)
