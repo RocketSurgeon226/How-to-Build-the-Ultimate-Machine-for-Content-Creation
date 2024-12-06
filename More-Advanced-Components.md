@@ -31,3 +31,7 @@ IEEE 802.11 is a set of media access control (MAC) and physical layer (PHY) spec
 They are the world’s most widely used wireless computer networking standards, used in most home and office networks to allow laptops, printers, and smartphones to talk to each other and access the Internet without connecting 
 wires.
 The standard and amendments provide the basis for wireless network products using the Wi-Fi brand.
+
+* [Storage](Storage.md)
+
+* [Peripherals](Peripherals.md)
