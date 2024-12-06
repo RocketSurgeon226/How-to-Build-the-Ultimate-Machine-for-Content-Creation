@@ -18,4 +18,4 @@ are (as of 2018) still more expensive per unit of storage than HDDs and are expe
 
 [Back: GPU/Graphics Card](GPU-Graphics-Card.md)
 
-[Next: More Advanced Components](More-Advanced-Components.md)
+[Next: Case](Case.md)
