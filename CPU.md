@@ -4,3 +4,5 @@ input/output (I/O) operations specified by the instructions. The computer indust
 specifically to its processing unit and control unit (CU), distinguishing these core elements of a computer from external components such as main memory and I/O circuitry.
 
 To install a CPU on your Motherboard, you need to loacte the CPU socket, unlock it to place the CPU, and lock back the socket in place to hold the CPU.
+
+* [RAM](RAM.md)
