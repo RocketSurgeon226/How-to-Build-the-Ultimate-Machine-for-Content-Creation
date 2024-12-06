@@ -1,3 +1,4 @@
+## Cooling 
 Computer cooling is required to remove the waste heat produced by computer components, to keep components within permissible operating temperature limits. Components that are susceptible to temporary malfunction or permanent 
 failure if overheated include integrated circuits such as Central processing units (CPUs), chipset, graphics cards, and hard disk drives.
 Components are often designed to generate as little heat as possible, and computers and operating systems may be designed to reduce power consumption and consequent heating according to workload, but more heat may still be 
@@ -8,10 +9,8 @@ designed to cut out or reduce their voltage or clock speed if the internal tempe
 Cooling may be designed to reduce the ambient temperature within the case of a computer, such as by exhausting hot air, or to cool a single component or small area (spot cooling). Components commonly individually cooled 
 include the CPU, Graphics processing unit (GPU) and the northbridge.
 
+* [Home](README.md)
 
 * [Back: RAM](RAM.md)
 
 * [Next: PSU](PSU.md)
-
-
-* [Home](README.md)
