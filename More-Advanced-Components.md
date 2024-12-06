@@ -1,3 +1,4 @@
+## More Advanced Components
 Sound Card
 A sound card (also known as an audio card) is an internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.
 Sound functionality can also be integrated onto the motherboard, using components similar to those found on plug-in cards. The integrated sound system is often still referred to as a sound card. Sound processing hardware is 
@@ -32,9 +33,8 @@ They are the world’s most widely used wireless computer networking standards, 
 wires.
 The standard and amendments provide the basis for wireless network products using the Wi-Fi brand.
 
-* [Back: Storage](Storage.md)
+[Home](README.md)
 
-* [Next: Peripherals](Peripherals.md)
+[Back: Storage](Storage.md)
 
-
-* [Home](README.md)
+[Next: Peripherals](Peripherals.md)
