@@ -36,6 +36,6 @@ The standard and amendments provide the basis for wireless network products usin
 
 [Home](README.md)
 
-[Back: Storage](Storage.md)
+[Back: Case](Case.md)
 
 [Next: Peripherals](Peripherals.md)
