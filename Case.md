@@ -2,6 +2,6 @@ A computer case, also known as a computer chassis, tower, system unit or cabinet
 
 [Home](README.md)
 
-[Storage](Storage.md)
+[Back: Data Storage](Storage.md)
 
-[More Advanced Components](More-Advanced-Components.md)
+[Next: More Advanced Components](More-Advanced-Components.md)
