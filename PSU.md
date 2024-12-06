@@ -8,3 +8,6 @@ to indicate when the DC voltages are in spec, so that the computer is able to sa
 * [Cooling-Fans](Cooling-Fans.md)
 
 * [GPU/Graphics Card)](GPU-Graphics-Card.md)
+
+
+* [Home](README.md)
