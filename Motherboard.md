@@ -5,7 +5,7 @@ connectors for other peripherals. Unlike a backplane, a motherboard usually cont
 components integrated for general purpose use.
 
 
-* [CPU](CPU.md)
+* [Next: CPU](CPU.md)
 
 
-* [Home](README.md)
+* [Back: Home](README.md)
