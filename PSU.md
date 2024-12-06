@@ -11,5 +11,5 @@ Learn More about: [Motherboard](Motherboard.md)
 
 [Back: Cooling](Cooling-Fans.md)
 
-[Next: GPU/Graphics Card](GPU-Graphics-Card.md)
+[Next: GPU](GPU-Graphics-Card.md)
 
