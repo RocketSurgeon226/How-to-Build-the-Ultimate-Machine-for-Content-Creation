@@ -5,9 +5,9 @@ standby (5VSB) voltage so that the standby functions on the computer and certain
 to indicate when the DC voltages are in spec, so that the computer is able to safely power up and boot. The most recent ATX PSU standard is version 2.31 as of mid–2008.
 
 
-* [Cooling-Fans](Cooling-Fans.md)
+* [Back: Cooling-Fans](Cooling-Fans.md)
 
-* [GPU/Graphics Card)](GPU-Graphics-Card.md)
+* [Next: GPU/Graphics Card)](GPU-Graphics-Card.md)
 
 
 * [Home](README.md)
