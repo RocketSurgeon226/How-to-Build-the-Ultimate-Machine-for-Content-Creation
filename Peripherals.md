@@ -1,5 +1,5 @@
 Monitor, Mouse, Keyboard
 
-* [Peripherals](Peripherals.md)
+* [More Advanced Components](More-Advanced-Components.md)
 
 * [Home](README.md)
