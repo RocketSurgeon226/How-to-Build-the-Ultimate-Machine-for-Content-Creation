@@ -7,3 +7,8 @@ designed to cut out or reduce their voltage or clock speed if the internal tempe
 
 Cooling may be designed to reduce the ambient temperature within the case of a computer, such as by exhausting hot air, or to cool a single component or small area (spot cooling). Components commonly individually cooled 
 include the CPU, Graphics processing unit (GPU) and the northbridge.
+
+
+* [RAM](RAM.md)
+
+* [PSU](PSU.md)
