@@ -2,9 +2,9 @@ Random-access memory is a form of computer data storage that stores data and mac
 irrespective of the physical location of data inside the memory.
 
 
-* [CPU](CPU.md)
+* [Back: CPU](CPU.md)
 
-* [Cooling-Fans](Cooling-Fans.md)
+* [Next: Cooling-Fans](Cooling-Fans.md)
 
 
 * [Home](README.md)
