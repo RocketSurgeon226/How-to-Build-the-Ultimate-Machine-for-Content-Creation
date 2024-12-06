@@ -4,6 +4,6 @@ purpose microcomputers and other expandable systems. It holds and allows communi
 connectors for other peripherals. Unlike a backplane, a motherboard usually contains significant sub-systems such as the central processor, the chipset’s input/output and memory controllers, interface connectors, and other 
 components integrated for general purpose use.
 
-* [Back: Home](README.md)
+[Back: Home](README.md)
 
-* [Next: CPU](CPU.md)
+[Next: CPU](CPU.md)
