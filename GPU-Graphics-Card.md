@@ -9,3 +9,8 @@ A graphics processing unit (GPU) is a specialized electronic circuit designed to
 in embedded systems, mobile phones, personal computers, workstations, and game consoles. Modern GPUs are very efficient at manipulating computer graphics and image processing, and their highly parallel structure makes them 
 more efficient than general-purpose CPUs for algorithms where the processing of large blocks of data is done in parallel. In a personal computer, a GPU can be present on a video card, or it can be embedded on the motherboard 
 or—in certain CPUs—on the CPU die.
+
+
+* [PSU](PSU.md)
+
+* [Storage](Storage.md)
