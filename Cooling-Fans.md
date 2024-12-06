@@ -12,3 +12,6 @@ include the CPU, Graphics processing unit (GPU) and the northbridge.
 * [RAM](RAM.md)
 
 * [PSU](PSU.md)
+
+
+* [Home](README.md)
