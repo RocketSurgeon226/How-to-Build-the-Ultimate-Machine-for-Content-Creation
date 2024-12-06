@@ -32,9 +32,9 @@ They are the world’s most widely used wireless computer networking standards, 
 wires.
 The standard and amendments provide the basis for wireless network products using the Wi-Fi brand.
 
-* [Storage](Storage.md)
+* [Back: Storage](Storage.md)
 
-* [Peripherals](Peripherals.md)
+* [Next: Peripherals](Peripherals.md)
 
 
 * [Home](README.md)
