@@ -5,6 +5,8 @@ Most modern desktop personal computer power supplies conform to the ATX specific
 standby (5VSB) voltage so that the standby functions on the computer and certain peripherals are powered. ATX power supplies are turned on and off by a signal from the motherboard. They also provide a signal to the motherboard 
 to indicate when the DC voltages are in spec, so that the computer is able to safely power up and boot. The most recent ATX PSU standard is version 2.31 as of mid–2008.
 
+Learn More about: [Motherboard](Motherboard.md)
+
 [Home](README.md)
 
 [Back: Cooling](Cooling-Fans.md)
