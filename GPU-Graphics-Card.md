@@ -1,3 +1,4 @@
+## GPU/Graphics Card
 A video card (also called a display card, graphics card, display adapter or graphics adapter) is an expansion card which generates a feed of output images to a display (such as a computer monitor). Frequently, these are 
 advertised as discrete or dedicated graphics cards, emphasizing the distinction between these and integrated graphics. At the core of both is the graphics processing unit (GPU), which is the main part that does the actual 
 computations, but should not be confused as the video card as a whole, although “GPU” is often used to refer to video cards.
@@ -10,10 +11,9 @@ in embedded systems, mobile phones, personal computers, workstations, and game c
 more efficient than general-purpose CPUs for algorithms where the processing of large blocks of data is done in parallel. In a personal computer, a GPU can be present on a video card, or it can be embedded on the motherboard 
 or—in certain CPUs—on the CPU die.
 
+[Home](README.md)
 
-* [Back: PSU](PSU.md)
+[Back: PSU](PSU.md)
 
-* [Next: Storage](Storage.md)
+[Next: Storage](Storage.md)
 
-
-* [Home](README.md)
