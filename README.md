@@ -11,3 +11,5 @@ Learn to build a machine (PC) for content creation such as gaming/streaming, mus
 * [Storage](Storage.md)
 * [More Advanced Components](More-Advanced-Components.md)
 * [Peripherals](Peripherals.md)
+
+  * [Next: Motherboard](Motherboard.md)
