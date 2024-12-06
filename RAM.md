@@ -6,5 +6,5 @@ irrespective of the physical location of data inside the memory.
 
 [Back: CPU](CPU.md)
 
-[Next: Cooling-Fans](Cooling-Fans.md)
+[Next: Cooling](Cooling-Fans.md)
 
