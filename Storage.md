@@ -12,3 +12,8 @@ designed to address specific requirements of the SSD technology.
 SSDs have no moving mechanical components. This distinguishes them from conventional electromechanical drives such as hard disk drives (HDDs) or floppy disks, which contain spinning disks and movable read/write heads. 
 Compared with electromechanical drives, SSDs are typically more resistant to physical shock, run silently, have quicker access time and lower latency. However, while the price of SSDs has continued to decline over time, SSDs 
 are (as of 2018) still more expensive per unit of storage than HDDs and are expected to continue to be so into the next decade.
+
+
+* [GPU/Graphics Card)](GPU-Graphics-Card.md)
+
+* [More Advanced Components](More-Advanced-Components.md)
