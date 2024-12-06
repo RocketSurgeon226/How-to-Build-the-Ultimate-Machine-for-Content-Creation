@@ -3,7 +3,7 @@
 Learn to build a PC (Personal Computer AKA Machine) for content creation such as gaming/streaming, music production, video/image editing, and coding.
 
 All the componets you will need to build your very own PC are:
-* [the Motherboard](Motherboard.md)
+* [Motherboard](Motherboard.md)
 * [CPU (Central Processing Unit)](CPU.md)
 * [RAM (Random Access Memory)(](RAM.md)
 * [Cooling/Fans](Cooling-Fans.md)
