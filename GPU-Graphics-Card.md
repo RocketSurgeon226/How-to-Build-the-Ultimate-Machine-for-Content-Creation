@@ -12,7 +12,7 @@ in embedded systems, mobile phones, personal computers, workstations, and game c
 more efficient than general-purpose CPUs for algorithms where the processing of large blocks of data is done in parallel. In a personal computer, a GPU can be present on a video card, or it can be embedded on the motherboard 
 or—in certain CPUs—on the CPU die.
 
-Learn More about: [CPU](CPU.md), [Peripherals](Peripherals.md)
+Learn More about: [Motherboard](Motherboard.md), [CPU](CPU.md), [More Advanced Components](More-Advanced-Components.md)
 
 [Home](README.md)
 
