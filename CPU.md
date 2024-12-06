@@ -5,9 +5,9 @@ specifically to its processing unit and control unit (CU), distinguishing these 
 
 To install a CPU on your Motherboard, you need to loacte the CPU socket, unlock it to place the CPU, and lock back the socket in place to hold the CPU.
 
-* [Motherboard](Motherboard.md)
+* [Back: Motherboard](Motherboard.md)
 
-* [RAM](RAM.md)
+* [Next: RAM](RAM.md)
 
 
 * [Home](README.md)
