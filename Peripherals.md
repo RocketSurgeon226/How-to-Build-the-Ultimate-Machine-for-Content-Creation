@@ -1,5 +1,5 @@
 ## Peripherals
-Monitor, Mouse, Keyboard
+#### Monitors, Mice, and Keyboard
 
 [Back: More Advanced Components](More-Advanced-Components.md)
 
