@@ -8,7 +8,7 @@ Most BIOS implementations are specifically designed to work with a particular co
 
 After you installed all of the hardware into the case, you can power up the PC to enter the BIOS. To do this you would normally need to press the "_**Delete**_" or "**_F2_**" key. The BIOS will boot up and from there you can check the internal PC temperatures, the hardware components dectected, and the speeds of the fans.
 
-Finally you can install Windows or Linux drivers (I'd perfer Windows beacuse it is easier) from a bootable USB, You can buy these drivers at [Microsoft Software Download](https://www.microsoft.com/en-us/software-download) and [Linux Shop](https://www.shoplinuxonline.com/)
+Finally you can install Windows or Linux drivers (I'd perfer Windows beacuse it is easier) from a bootable USB, You can buy these drivers at [Microsoft Software Download](https://www.microsoft.com/en-us/software-download) and [Linux Shop](https://www.shoplinuxonline.com/).
 
 
 ![BIOS](https://hypixel.net/attachments/monitor_1_20240802-100137-818-png.3344651/)
