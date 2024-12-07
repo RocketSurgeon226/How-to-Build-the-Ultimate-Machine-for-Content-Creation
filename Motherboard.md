@@ -5,6 +5,8 @@ To start setting up, first gather all the necessary tools (at least a screwdrive
 
 Get out the motherboard and place it on the surface. This printed circuit board (PCB) is the main one found in PCs and is usally the largest. This holds and allows communication between many of the components of the machine, such as the CPU and RAM, and provides connectors for the peripherals.
 
+![Motherboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-budget-motherboard.png?q=70&fit=crop&w=1100&h=618&dpr=1)
+
 Learn More about: [CPU](CPU.md), [RAM](RAM.md), [Storage](Storage.md), [Peripherals](Peripherals.md)
 
 [Back: Home](README.md)
