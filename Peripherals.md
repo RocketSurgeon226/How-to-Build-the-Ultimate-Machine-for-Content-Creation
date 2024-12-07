@@ -27,6 +27,6 @@ Examples of **Input/Output (I/O) Devices** are:
 
 ![Peripherals](https://vanaplus.co/cdn/shop/articles/54e584cb9e7df1b3358d7b9f54592c6c.png?v=1657998272&width=400)
 
-[Back: More Advanced Components](More-Advanced-Components.md)
+[Back: BIOS](BIOS.md)
 
 [Home](README.md)
