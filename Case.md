@@ -16,6 +16,8 @@ Next, mount the fans for ther intake (front) and exhaust (back/top) and test the
 
 Finally, use cable wrap tubes or tie-downs to organize the cables in your case to keep the cables tidy and to avoid blocking airflow.
 
+![Case](https://i.ebayimg.com/images/g/yFsAAOSwmD5nNLew/s-l1600.webp)
+
 Learn More about: [Peripherals](Peripherals.md)
 
 [Home](README.md)
