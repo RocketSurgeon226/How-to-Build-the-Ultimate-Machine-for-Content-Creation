@@ -24,4 +24,4 @@ Learn More about: [Peripherals](Peripherals.md)
 
 [Back: Data Storage](Storage.md)
 
-[Next: More Advanced Components](More-Advanced-Components.md)
+[Next: BIOS](BIOS.md)
