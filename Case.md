@@ -4,7 +4,7 @@ To fully assemble the PC you will need to place and organize all of the componet
 
 First install the **I/O shield** (metal plate that covers the ports) inside the case. Align the **motherboard** holes with the standoffs in the case. Ensure its I/O ports match with the I/O shield. Then tighten the screws on the motherboard gently to the standoffs to avoid damage.
 
-Next, depending if you have a M.2  SSD or SATA SSD/HDD do the following:
+Next, depending if you have a M.2  SSD or SATA SSD/HDD do the following: 
 *For **M.2 SSD**: insert the drive into the M.2 slot and secure it with a screw; it does not need a power cable
 *For **SATA SSD/HDD**: slide them into the drive bays and secure them with screws; connect the SATA power and data cables
 
