@@ -12,7 +12,6 @@ All the componets you will need to build your very own PC are:
 * [Storage (SSD or HDD)](Storage.md)
 * [Case](Case.md)
 * [BIOS](BIOS.md)
-* [More Advanced Components (Sound Card and NIC)](More-Advanced-Components.md)
 * [and Peripherals](Peripherals.md)
 
   * [Next: Motherboard](Motherboard.md)
