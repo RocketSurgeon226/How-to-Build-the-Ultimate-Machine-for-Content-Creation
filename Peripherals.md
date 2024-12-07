@@ -1,7 +1,7 @@
 ## Peripherals
 #### Input, Output, and Input/Output (I/O) Devices
 
-**Periphals** are external devices that connect to a computer to provide addidtional functianlity. These could be in the forms of input devices, output devices, and input/otput (I/O) devices. Cables such as _**USB-A**_, _**USB-C**_, _**HDMI**_, _**3.5mm Auxiliary**_, _**Ethernet**_, and _**MIDI cables**_ are used for todays devices.
+**Periphals** are external devices that connect to a computer to provide addidtional functionality. These could be in the forms of input devices, output devices, and input/otput (I/O) devices. Modern cables such as _**USB-A**_, _**USB-C**_, _**HDMI**_, _**3.5mm Auxiliary**_, _**Ethernet**_, and _**MIDI cables**_ are used to connect these devices to the machine.
 
 Examples of **Input Devices** are:
   * _Keyboards_
