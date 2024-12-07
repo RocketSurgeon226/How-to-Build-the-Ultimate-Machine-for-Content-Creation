@@ -4,6 +4,8 @@ Next, you will need to install the RAM. RAM (Random Access Memory) is a type of 
 
 Push down the latches at the ends of the slots. Line up the notches on the RAM with the slots and press down firmly until the RAM clicks into place, making sure it is embedded fully.
 
+![RAM Stick](https://m.media-amazon.com/images/I/41r+jv7Ni4L._AC_.jpg)
+
 [Home](README.md)
 
 [Back: CPU](CPU.md)
