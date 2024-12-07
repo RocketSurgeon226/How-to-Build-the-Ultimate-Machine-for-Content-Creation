@@ -7,6 +7,7 @@ GPUs are used in embedded systems (digital cameras, calculators), mobile phones,
 
 To install the GPU you would need to locate the the PCIe x16 slot on the motherboard and remove the slot covers if any. Then you would need to align the GPU with the slot and press firmly until you feel it click. After that you can plug in any of the required PCIe power cables from the PSU.
 
+![Graphics Card](https://madpcb.com/wp-content/uploads/2020/12/Graphics-Card-PCB-Assembly.jpg)
 
 Learn More about: [Motherboard](Motherboard.md), [CPU](CPU.md), [More Advanced Components](More-Advanced-Components.md)
 
