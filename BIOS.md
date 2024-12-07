@@ -14,3 +14,6 @@ Unified Extensible Firmware Interface (UEFI) is a successor to BIOS, aiming to a
 After you installed all of the hardware into the case, you can pwer up the PC to enter the BIOS. To do this you would normally need to press the "Delete" or "F2" key. The BIOS will boot up and from there you can check the internal PC temperatures, the hardware components dectected, and the speeds of the fans.
 
 Finally you can install Windows or Linux drivers (I'd perfer Windows beacuse it is easier) from a bootable USB, You can buy these drivers at "https://www.microsoft.com/en-us/software-download" and "https://www.shoplinuxonline.com/"
+
+
+![BIOS](https://hypixel.net/attachments/monitor_1_20240802-100137-818-png.3344651/)
