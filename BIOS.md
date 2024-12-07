@@ -12,3 +12,12 @@ Finally you can install Windows or Linux drivers (I'd perfer Windows beacuse it 
 
 
 ![BIOS](https://hypixel.net/attachments/monitor_1_20240802-100137-818-png.3344651/)
+
+Learn More about: [Motherboard](Motherboard.md)
+
+[Home](README.md)
+
+[Back: Case](Case.md)
+
+[Next: Peripherals](Peripherals.md)
+
