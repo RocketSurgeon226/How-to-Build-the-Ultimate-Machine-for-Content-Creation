@@ -5,7 +5,7 @@ Most desktop PCs power supplies now and days conform to the ATX (Advanced Techno
 
 To configure the PSU you would need to connect the 24 pin and 8 pin CPU cables that came with the PSU to the motherboard. You may require additional GPU or peripheral cables.
 
-![PSU]([https://plus.unsplash.com/premium_photo-1661962607720-d23f056f56e6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://www.velocitymicro.com/blog/wp-content/uploads/2014/12/100-B1-0600-KR_XL_4-300x300.jpg))
+![PSU](https://c1.neweggimages.com/productimage/nb1280/BA1GD2309170H4O0899.jpg)
 
 Learn More about: [Motherboard](Motherboard.md)
 
