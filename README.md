@@ -1,4 +1,4 @@
-# How to Build the Ultimate Machine for Content Creation 
+# How to Build a PC (Personal Computer AKA Machine)
 ## created by Adam Smith
 Learn to build a PC (Personal Computer AKA Machine) for content creation such as gaming/streaming, music production, video/image editing, and coding.
 
