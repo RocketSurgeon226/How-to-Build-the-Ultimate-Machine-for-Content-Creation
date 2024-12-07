@@ -1,6 +1,6 @@
 # How to Build a PC
 ## created by Adam Smith
-Learn how to build a PC (Personal Computer AKA Machine) for content creation such as gaming/streaming, music production, video/image editing, and coding. This tutorial is meant to be a simple guide to build any PC. This is not specified for any particular PC so details may not exactly match your machine.
+Learn how to build a PC (Personal Computer AKA Machine) for content creation such as gaming/streaming, music production, video/image editing, and coding. This tutorial is meant to be a simple guide to build any PC for anyone learning the basics. This is not specified for any particular PC so details may not exactly match your machine.
 
 All the componets you will need to build your very own PC are:
 * [Motherboard](Motherboard.md)
